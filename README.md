@@ -1,2 +1,1 @@
-# Chetanya-Hindwan
-cracker
+Python-Projects which are beginner friendly 
